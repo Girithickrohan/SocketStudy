@@ -83,8 +83,11 @@ s.send("acknowledgement recived from the server".encode())
 ```
 ## Output:
 client:
+
 ![img](cl.png)
+
 server:
+
 ![img](ser.png)
 ## Result:
 Thus the study of Socket Programming Completed Successfully
